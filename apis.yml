@@ -30,7 +30,7 @@ x-status: acquired
 x-status-detail: Formed 2007 from Battery Ventures take-private of Quovadx Integration Solutions Division;
   acquired by Lawson Software (now Infor). No live website or API surface as of enrichment.
 x-enrichment-checked: '2026-07-19'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
